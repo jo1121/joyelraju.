@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <img src="AI in Home.jpeg" alt="AI in Home.jpeg">
-        <h1>Welcome to my Website</h1>
+        <h1>MY AI HOME</h1>
         <p>Introduction to AI in Smart Homes: Enhancing Comfort and Efficiency
 
 Artificial Intelligence (AI) plays a crucial role in transforming smart homes by adding intelligence, automation, and personalization to the devices and systems within them. Here are some key points:
