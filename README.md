@@ -34,9 +34,8 @@
 </head>
 <body>
     <div class="container">
-        <img src="![AI in Home](https://github.com/jo1121/joyelraju./assets/167079817/a9309581-04cf-4a1c-b451-d7dddb731a06)
-" alt="Introduction Image">
-        <h1>Welcome to Our Website</h1>
+        <img src="![AI in Home](https://github.com/jo1121/joyelraju./assets/167079817/a9309581-04cf-4a1c-b451-d7dddb731a06)" alt="AIinHome.jpeg">
+        <h1>Welcome to my Website</h1>
         <p>Introduction to AI in Smart Homes: Enhancing Comfort and Efficiency
 
 Artificial Intelligence (AI) plays a crucial role in transforming smart homes by adding intelligence, automation, and personalization to the devices and systems within them. Here are some key points:
