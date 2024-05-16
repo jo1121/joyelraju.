@@ -34,7 +34,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="![AI in Home](https://github.com/jo1121/joyelraju./assets/167079817/a9309581-04cf-4a1c-b451-d7dddb731a06)" alt="AIinHome.jpeg">
+        <img src="AI in Home.jpeg" alt="AI in Home.jpeg">
         <h1>Welcome to my Website</h1>
         <p>Introduction to AI in Smart Homes: Enhancing Comfort and Efficiency
 
